@@ -12,6 +12,6 @@ https://www.kaggle.com/datasets/adiamaan/movie-subtitle-dataset?select=movies_su
 
 2) Create the conda environment using the environment.yml file.
 
-3) Download the files from this repository and be sure to run final_embeddings.py before final_mlp_histogram.py, as the mlp_histogram file uses the embeddings learned in the embeddings file.
+3) Download the files from this repository and be sure to run final_embeddings.py before any other file, as MLP-Histogram, MLP-Histogram-Batch Normalisation, and C-CNN use the embeddings learned in the embeddings file.
 
 4) To apply over/under sampling, there are "Apply over/under sampling" sections within each file (except final_embeddings.py) which can be uncommented as desired to apply over/under sampling.

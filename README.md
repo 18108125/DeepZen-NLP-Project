@@ -1,6 +1,6 @@
 # DeepZen
 
-For our experiments we used a Windows PC with 64-bit Windows 10 installed.
+For my experiments I used a Windows PC with 64-bit Windows 10 installed.
 PC specifications:
 CPU: AMD Ryzen 5 3600XT 6-Core Processor               3.80 GHz
 RAM: 32GB
